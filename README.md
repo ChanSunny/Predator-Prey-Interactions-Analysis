@@ -1,5 +1,5 @@
 # Predator-Prey-Interactions-Analysis
-Group Project completed for Ordinary Differential Equation class.
+Group project completed for ordinary differential equation class.
 
 This paper is about analyzing the impact of climate change in predator-prey models by using existing data.
 
